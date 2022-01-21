@@ -22,7 +22,7 @@ function Portfolio() {
     {id: 6, name: 'boids-quadtree', image: 'boids-quadtree.gif', description: ''},
   ]);
   return (
-    <div className="w-75 mx-auto">
+    <div className="w-75 mx-auto my-5">
       <h2>Portfolio Section</h2>
 
       <div className="d-flex align-item-start flex-wrap justify-content-around">
